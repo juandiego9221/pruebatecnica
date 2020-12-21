@@ -5,10 +5,10 @@ http://localhost:8080/v2/api-docs
 
 #Operaciones
 
-http://localhost:8080/kpideclientes
-http://localhost:8080/listclientes
-http://localhost:8080/crearclient
-
+http://localhost:8080/kpideclientes  
+http://localhost:8080/listclientes  
+http://localhost:8080/crearclient  
+  
 Ejemplo:
 
 {
